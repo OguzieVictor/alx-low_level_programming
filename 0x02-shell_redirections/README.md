@@ -1,1 +1,1 @@
-*script to print out to standard output*
+*0-hello_world : prints "Hello, World", followed by a new line*
