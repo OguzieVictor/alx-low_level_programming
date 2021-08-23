@@ -1,1 +1,1 @@
-*scripts for shell basics*
+*DevOps repo*
